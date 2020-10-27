@@ -3,7 +3,7 @@ capstone==4.0.2
 certifi==2020.6.20
 cffi==1.14.2
 chardet==3.0.4
-cryptography==3.0
+cryptography==3.2
 fastapi==0.61.0
 idna==2.10
 intervaltree==3.1.0
